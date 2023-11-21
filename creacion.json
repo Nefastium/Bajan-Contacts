@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bajan-project",
+  "private_key_id": "56b5c6292ea2b71b57bd90285aa40de88cb5e47c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDTQEidt/Nf7bbw\nN94X2FrFSRbcEWVZpIAfbEjDf1lPOX7QudhNXxxp9CCfgkoFeRAT2uP1CZE/q9Bz\nnqBiqQPbzN4QYDOuES2+/QuuAXhK2RDNL0dV0deBj4RMkLdl9rF8ltEr7UPyyQVM\nieJDxds07QGqb9YjpW7rmKmIUFAgL7HNDoLHZIgdW2DxohzoJKtGQlo1tU6Ey3PJ\nD3ck4xVbSwjl/C/ECNKw2Xe/KxLEosTEiMdz49gBlBVmHOa19NeY+SKmf6FqevWN\nk0Z6lZ81Qe+qbNWA6H3+yl9DElA4hwq0bSbwv010NqmGQKQD2wMcpz91ir7ZXYt5\n4L/kI5tHAgMBAAECggEAU9fwukBXJNy5PdA+oqIpLKIco41390M14sLcglMaBDqi\nnX8VXWgBZAATrptMe62X9vlqfkek0WuE2U69A0tnj6ZZAJDeEhkZWfMe3poQv0w1\nweog2uvlJ7PpY2YQlDR8LyHAtTl/PW4RX1Zeal2t6eyjO50VlaJESteVede+ZXcv\nwaOB6v0memc5xorXEwX4fv8lsh1ED1XloF4kyGcTR8DStaqth8RYBNmQ52mp20rw\nBUTTftAkF606hixspshMpgOowBOIRcz+jCiZ33AwPmAlOJA06fttIaK1R2rabywQ\n68LkfhAa2CI0PViFbjzqkLBVw1w72YfiHsMatQwssQKBgQDzy4PbX5UqFw/rJCXa\nVa54BMrvxq987SfZjTUKyzkrK6jShS20sPaLYuPXuBWh3EhTXZuIcYJAneb/Crqi\n0snyxSt47u+ONG4YEIm4u+SpHE1yrFA8gD1pXJD7yCabv1aqghcqOp2RvpTBgfSb\n9Zih6ncIqZV1KI5DFzZzX3gkeQKBgQDd069ohSh94zN+P9ffgQVx/SgfMu2L8crI\np+adsU7cHRwo8ug3MyNJoBXKiRI4VhfwBGjxTO2TLcS0xQnCBTEZk8xCA7ys7g2w\nQM2JdBGVUM3zdCR59Yic4rXheeBMsHnxmBMKGNTKGyHl0Q1XFtkSg2K/i1h0JDgx\nJGIGSMhNvwKBgB+DA8UcQrSRDI6xOm9ROd7rh6uce9xi7w6wsNV3VSleWFD1w+Wi\nJgv4OUkN00X7qiGUbOEjAtoFTvFSWrNnGZFWqPrVr4MrBbv4j0SgjLrLHLugyDI5\nxTZUL61LvqnM/o/Fhub/cpR/FM06Vfq+sP7kxoQJH3doSZMkcfZRtb7JAoGAK27n\nSW/JHdz+mBmoCvsYNdl7oaA3Is+VBPTbEsVEy5Rnjx0Ams5IeoH9wkpUZvN0fGpg\nod6OJeMwQLTT1Elv87IcrFBPAQ0bYQdPNzqitrm7mY+EFN0egplhQ2S5pkpnlgZQ\ntAlooKnvWTA1jHfMyPMwwpBmIVd2KSkWiGR308ECgYB+pPFhCKOtcg2ioAnfmzXQ\nx1DlBNc0Mr2RBm/e0pkZFbfe1pH0O4lezU0iI7iYWQCMrWDY5hPvSRvVyZBnglLT\nrWbD05NZsbgLcMmCp5mLwkCrQ8RSoekqOa2jHk/rHGNbwJYJgEAridfM3twPfRPj\nmPnVPWmzDQOd1uT1k9wkBg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "contactos@bajan-project.iam.gserviceaccount.com",
+  "client_id": "106004701830368519314",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/contactos%40bajan-project.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
